@@ -1,0 +1,6 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Barras -->
+  <rect x="70" y="130" width="40" height="30" fill="black"/>
+  <rect x="130" y="100" width="40" height="60" fill="black"/>
+  <rect x="190" y="70" width="40" height="90" fill="black"/>
+</svg>
